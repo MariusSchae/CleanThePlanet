@@ -1,0 +1,15 @@
+.map {
+  height: 60vh;
+}
+
+.flexContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-content: center;
+  align-self: center;
+}
+
+#loadingSpinner {
+  display: none;
+}
